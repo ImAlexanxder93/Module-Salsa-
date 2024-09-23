@@ -6,3 +6,4 @@ https://lucid.app/lucidchart/312ab9ab-258c-451b-b25a-6d0eae30cd85/edit?view_item
 ![Python](https://github.com/user-attachments/assets/d1d795a3-50ae-47d3-8fd2-6ebfb164853f)
 ![Class Diagram](https://github.com/user-attachments/assets/43994366-c25c-456f-8c57-d79553b5fc1b)
 This is a screenshot of a class diagram I edited
+![Flower txt](https://github.com/user-attachments/assets/027b6203-eb84-4c13-ac6e-69f99f6b7bd6)
