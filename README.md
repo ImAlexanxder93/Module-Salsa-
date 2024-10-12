@@ -9,3 +9,5 @@ This is a screenshot of a class diagram I edited
 ![Flower txt](https://github.com/user-attachments/assets/027b6203-eb84-4c13-ac6e-69f99f6b7bd6)
 ![NetworkDesign png](https://github.com/user-attachments/assets/c874b005-5ac7-43ea-91b9-a6963f486bf7)
 I selected topologoy because its a easy way to diagram or explain the connections between each device on a network together. The diagram you're looking at is a simple explannation of how the internet is connected to the firewall, which is then passed through to the router and then to the server which provides a connection for the devices connected to it.
+![MyHTML](https://github.com/user-attachments/assets/2f0ac4bf-1d40-4bc4-9781-90c9b0ce7674)
+This is what I came up with in my attempt to create a HTML but its just a simple screenshot of paragraph on cyber security since thats my major.
